@@ -1,5 +1,7 @@
-#Jekyll Portfolio
-This a portfolio site template built with [Jekyll](http://jekyllrb.com/) that you can use. 
+#Mr. Hyde
+Mr. Hyde is a tool that helps you easily and quickly set up your own online portfolio, hosted for free right here on github. Just add you content and any additional stylings and you're ready to go. Mr. Hyde puts you in control of your content without needing a big, bloated content-management-system.
+
+Mr. Hyde is powered by Dr. [Jekyll](http://jekyllrb.com/)!
 
 ##A solid start
 It uses [HTML5 Boilerplate](http://html5boilerplate.com/) as a starting point that delivers best practices, standard elements, and pieces like Normalize.css for you to start from.

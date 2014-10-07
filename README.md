@@ -23,3 +23,6 @@ No need for a complex frontend framework. You can add in custom grids pretty eas
 </div>
 ```
 Here's [more info](http://css-tricks.com/dont-overthink-it-grids/) about the simple grids we're using thanks to [Chris Coyier](https://twitter.com/chriscoyier).
+
+##Add in your work
+The portfolio projects are found in `/_posts`. There you can add the project's title, thumbnail, images, link to project, tags, categories, and summary.
